@@ -15,6 +15,8 @@ The workflows included in this GitPod repository will run quickly and are perfec
 
 **Delete GitPod Instance** - To delete a GitPod instance, got to this [LINK](https://gitpod.io/workspaces).  You will see a list of your most immediately opened GitPod instances.  Click the options button, it is 3 black dots stacked on top of each other, which will be to the right of a GitPod instance.  Click on the red _Delete_ text that is displayed in the drop-down when clicking on the 3 black dots.  You will be prompted with a new window, click the red button that says _Delete Workspace_.
 
+**Prevent Workspace Timeout** - GitPod has a timeout function.  If no changes are made through the GitPod IDE of the launched workflow, the GitPod workspace could automatically close in 30 minutes or less.  To prevent a timeout from happening, simply open a new terminal tab in the GitPod IDE, and execute a simple command like "ls".  Repeat the command every 20 minutes or so to prevent a timeout while running a long workflow.
+
 # Troubleshooting
 **Ports tab doesn't show in IDE** - If the port tab doesn't show, there might be a conflict with browser plugins or other tabs open.  Try restarting your browser and opening the GitPod instance without other tabs open.
 
