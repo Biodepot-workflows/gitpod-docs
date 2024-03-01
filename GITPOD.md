@@ -21,3 +21,5 @@ The workflows included in this GitPod repository will run quickly and are perfec
 **Ports tab doesn't show in IDE** - If the port tab doesn't show, there might be a conflict with browser plugins or other tabs open.  Try restarting your browser and opening the GitPod instance without other tabs open.
 
 **Bwb shuts down when loading workflow** - When opening a workflow on GitPod, sometimes Bwb will not re-launch with the workflow.  If this happens, right click the desktop, select "Bwb" and load the workflow again.
+
+**Bwb does not load on start** - When opening the Bwb window on GitPod, sometimes Bwb will not have started.  If this happens, right click the desktop, select "Bwb" and load the workflow again.
